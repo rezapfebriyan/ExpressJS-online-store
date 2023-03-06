@@ -1,2 +1,2 @@
 # ExpressJS-online-store
-*Rest API online store using Exress JS*
+*Rest API online store using Express JS*
